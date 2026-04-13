@@ -4,6 +4,10 @@
 
 ---
 
+## Dashboard Preview
+
+![Stock Dashboard](dashboard.png)
+
 ## Overview
 This project explores U.S. stock market trends from 2019 to early 2024 using interactive Tableau dashboards. The analysis focuses on sector performance, price trends, trading volume, and the impact of major economic events such as the COVID-19 pandemic. :contentReference[oaicite:0]{index=0}
 
