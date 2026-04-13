@@ -27,7 +27,7 @@ This project explores U.S. stock market trends from 2019 to early 2024 using int
 - Includes:
   - Price (closing)
   - Trading volume
-  - Sector classification :contentReference[oaicite:1]{index=1}  
+  - Sector classification 
 
 ---
 
