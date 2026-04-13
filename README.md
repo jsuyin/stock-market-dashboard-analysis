@@ -31,7 +31,7 @@ This project explores U.S. stock market trends from 2019 to early 2024 using int
 - Grouped stocks into sectors (technology, energy, metals, crypto, etc.)  
 - Cleaned and standardized date formats  
 - Transformed data from wide → long format  
-- Created calculated fields (QoQ % change, trends) :contentReference[oaicite:2]{index=2}  
+- Created calculated fields (QoQ % change, trends)
 
 ---
 
@@ -62,7 +62,7 @@ This project explores U.S. stock market trends from 2019 to early 2024 using int
 - Stocks across the same sector tend to move together, with some exceptions (e.g., metals)  
 - Trading volume correlates with price momentum and market strength  
 - COVID-19 caused a sharp decline followed by strong recovery across most sectors  
-- Technology, index funds, and cryptocurrency sectors showed strong long-term growth :contentReference[oaicite:3]{index=3}  
+- Technology, index funds, and cryptocurrency sectors showed strong long-term growth
 
 ---
 
@@ -78,4 +78,4 @@ This project explores U.S. stock market trends from 2019 to early 2024 using int
 Future improvements could include:
 - Adding open/high/low prices for deeper analysis  
 - Implementing candlestick charts  
-- Expanding sector coverage for broader economic insight :contentReference[oaicite:4]{index=4}  
+- Expanding sector coverage for broader economic insight
